@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 def add(a,b):
-    return a+b
+    return a-b
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Ankit')
